@@ -1,0 +1,15 @@
+/Users/sinancem/Desktop/Dev/NTP/SinavCalısma/bin/Debug/net7.0/SinavCalısma
+/Users/sinancem/Desktop/Dev/NTP/SinavCalısma/bin/Debug/net7.0/SinavCalısma.deps.json
+/Users/sinancem/Desktop/Dev/NTP/SinavCalısma/bin/Debug/net7.0/SinavCalısma.runtimeconfig.json
+/Users/sinancem/Desktop/Dev/NTP/SinavCalısma/bin/Debug/net7.0/SinavCalısma.dll
+/Users/sinancem/Desktop/Dev/NTP/SinavCalısma/bin/Debug/net7.0/SinavCalısma.pdb
+/Users/sinancem/Desktop/Dev/NTP/SinavCalısma/obj/Debug/net7.0/SinavCalısma.csproj.AssemblyReference.cache
+/Users/sinancem/Desktop/Dev/NTP/SinavCalısma/obj/Debug/net7.0/SinavCalısma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinancem/Desktop/Dev/NTP/SinavCalısma/obj/Debug/net7.0/SinavCalısma.AssemblyInfoInputs.cache
+/Users/sinancem/Desktop/Dev/NTP/SinavCalısma/obj/Debug/net7.0/SinavCalısma.AssemblyInfo.cs
+/Users/sinancem/Desktop/Dev/NTP/SinavCalısma/obj/Debug/net7.0/SinavCalısma.csproj.CoreCompileInputs.cache
+/Users/sinancem/Desktop/Dev/NTP/SinavCalısma/obj/Debug/net7.0/SinavCalısma.dll
+/Users/sinancem/Desktop/Dev/NTP/SinavCalısma/obj/Debug/net7.0/refint/SinavCalısma.dll
+/Users/sinancem/Desktop/Dev/NTP/SinavCalısma/obj/Debug/net7.0/SinavCalısma.pdb
+/Users/sinancem/Desktop/Dev/NTP/SinavCalısma/obj/Debug/net7.0/SinavCalısma.genruntimeconfig.cache
+/Users/sinancem/Desktop/Dev/NTP/SinavCalısma/obj/Debug/net7.0/ref/SinavCalısma.dll
