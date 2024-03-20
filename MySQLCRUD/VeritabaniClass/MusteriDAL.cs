@@ -6,7 +6,7 @@ class MusteriDAL{
     string connectionString;//VeriTabanının bulundugu adresi içinde barındıracak.
 
     MySqlConnection conn;//Veritabanı ile haberlemeyi saglayacak degişkenim.
-
+    
     public MusteriDAL(){//KURUCU METOT
 
         connectionString="Server=localhost;Database=yonetimsistemi;Uid=root;Pwd=";
